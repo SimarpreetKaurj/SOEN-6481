@@ -18,6 +18,21 @@ and usable TVM. In the rest of the document, ‘iGo’ stands for the name of bo
 project and the product, unless otherwise stated.
 
 Team Members:
+Simarpreet Kaur Jabbal 
+Chinmay Hadadare
+Rajasekhar Reddy Guntaka
+A M Anisul Huq
+Andrew Jreij
+
+# Roles and Responsibilities:
+Deliverable 1
+Simarpreet Kaur Jabbal 
+1.Directly worked on - Problem Domain Model,Problem Domain Model description,Documenting conclusions derived from interviews and how it influenced different software artifacts for our TVM iGo.
+2. Contributed in    - One view of use case model i.e the use case diagram , Description of the kind of TVM selected.
+3.Worked in collboration with other team members for conducting interviews.
+
+
+
 
 
 
