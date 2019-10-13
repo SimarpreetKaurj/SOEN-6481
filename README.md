@@ -40,6 +40,18 @@ influenced different software artifacts for our TVM iGo.
 
 3.Worked in collboration with other team members for conducting interviews.
 
+Andrew Jreij
+
+1. Directly worked on:
+  - Interview questions
+  - Context of Use (description and model)
+  - Problem domain model
+  - Problem domain description
+  - Use case model (UML use case diagram, UML activity diagram)
+  - LaTeX report
+  
+ 
+
 
 
 
