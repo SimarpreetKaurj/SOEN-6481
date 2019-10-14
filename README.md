@@ -76,6 +76,7 @@ Chinmay Hadadare
   - UML Activity diagram
   - Use case description
   - Documenting conclusion of interviews
+  - Sequence Diagram
 
 2. Contributed in :
   - Activity diagram description
