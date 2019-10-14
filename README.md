@@ -69,7 +69,18 @@ Andrew Jreij
 
 
 
+Chinmay Hadadare
 
+1. Directly worked on:
+  - Interview questions
+  - UML Activity diagram
+  - Use case description
+  - Documenting conclusion of interviews
 
+2. Contributed in :
+  - Activity diagram description
+  - Use Case diagram
+  
+3.Worked in collboration with other team members for conducting interviews.
 
 
