@@ -59,7 +59,12 @@ Andrew Jreij
   - Use case model (UML use case diagram, UML activity diagram)
   - LaTeX report
   
- 
+ A M Anisul Huq
+ 1.Directly worked on :
+  - Described the kind of TVM selected, its features along with the rational. 
+  - Define iGo in terms of the needs of visually challenged and wheelchair bound people.
+  
+ 2. Worked in collboration with other team members for conducting interviews.
 
 
 
