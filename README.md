@@ -86,3 +86,19 @@ Chinmay Hadadare
 3.Worked in collboration with other team members for conducting interviews.
 
 
+
+
+
+Rajasekhar Reddy Guntaka
+
+1. Directly worked on:
+  - Interview questions
+  - UML Usecase diagram
+  - UML Activity diagram description
+  
+  
+2. Contributed in:
+   -Use case description
+   -Use case diagram
+
+3. Worked in collaboration with other team members for conducting interviews.
