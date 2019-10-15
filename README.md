@@ -35,19 +35,17 @@ Simarpreet Kaur Jabbal
 
 1.Directly worked on :
 - Problem Domain Model
+- Problem Domain Model description
+- Interview Questions
+- Documenting conclusions derived from interviews and how it
+  influenced different software artifacts for our TVM iGo.
 
--Problem Domain Model description
-
--Interview Questions
-
--Documenting conclusions derived from interviews and how it
- influenced different software artifacts for our TVM iGo.
-
-2. Contributed in :
--One view of use case model i.e the use case diagram 
--Description of the kind of TVM selected.
+2.Contributed in :
+- One view of use case model i.e the use case diagram 
+- Description of the kind of TVM selected.
 
 3.Worked in collboration with other team members for conducting interviews.
+4.Reviewed and suggested improvements in the LateX report.
 
 Andrew Jreij
 
