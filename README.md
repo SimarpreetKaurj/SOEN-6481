@@ -41,10 +41,11 @@ Simarpreet Kaur Jabbal
   influenced different software artifacts for our TVM iGo.
 
 2.Contributed in :
-- One view of use case model i.e the use case diagram 
+- Use case model
 - Description of the kind of TVM selected.
 
 3.Worked in collboration with other team members for conducting interviews.
+
 4.Reviewed and suggested improvements in the LateX report.
 
 Andrew Jreij
