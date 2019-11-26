@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="US02_Andrew:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="790b8b7f-4d6e-4beb-af7d-9ec5e7590ccf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/Software Engineering/Fall 19/SOEN 6461 - Software Design Methodologies/SOEN-6461" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -66,7 +71,9 @@
       <workItem from="1573932853316" duration="5269000" />
       <workItem from="1573957497967" duration="8219000" />
       <workItem from="1574025881588" duration="40000" />
-      <workItem from="1574538085264" duration="477000" />
+      <workItem from="1574538085264" duration="1100000" />
+      <workItem from="1574732167383" duration="1720000" />
+      <workItem from="1574733922459" duration="122000" />
     </task>
     <servers />
   </component>
