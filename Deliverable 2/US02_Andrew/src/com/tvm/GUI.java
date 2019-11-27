@@ -67,12 +67,15 @@ public class GUI implements ActionListener {
         price = ticket.getTariffs().get(ss);
         System.out.println(price);
 
+        JLabel label1 = new JLabel("Enter Debit/Credit card number:");
+
         JButton submitButton = new JButton("Submit");
         submitButton.addActionListener(this);
 
         JButton backButton = new JButton("Back");
         backButton.addActionListener(this);
 
+        panel.add(label1);
         panel.add(textField);
         panel.add(submitButton);
         panel.add(backButton);
