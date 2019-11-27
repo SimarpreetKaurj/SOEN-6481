@@ -59,7 +59,7 @@ public class BankCard {
 		digitsClone = Clone(digits);
 		Collections.reverse(digitsClone);//because the algorithm goes from right to left. 
 		int oddTotal = 0;
-		for(int i = 1; i < digitsClone.size(); i = i + 2){
+		for(int i = 0; i < digitsClone.size(); i = i + 2){
 			oddTotal = oddTotal + digitsClone.get(i);
 		}
 		
