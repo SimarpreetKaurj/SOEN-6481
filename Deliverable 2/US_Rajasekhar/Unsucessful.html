@@ -1,0 +1,25 @@
+<html>
+<head>
+        <style>.centered{
+                position: fixed;
+                top:35%;
+                left: 35%;
+            }
+            </style>
+<script>
+        function myScript() {
+            var urlParams = new URLSearchParams(window.location.search);
+            var text=urlParams.get('q')
+            var element = document.getElementById("data")
+            element.textContent=element.textContent+" "+text
+            
+        }
+        </script>
+</head>
+
+<body onload="myScript()" >
+<div class="centered">
+<h2> Insufficient cash inserted </h2>
+</div>
+</body>
+</html>
